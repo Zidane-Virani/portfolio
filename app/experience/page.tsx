@@ -100,9 +100,9 @@ export default function Experience() {
               </CardHeader>
               <CardContent>
                 <ul className="space-y-2 text-gray-300">
-                  <li>• [Add your experience details here]</li>
-                  <li>• [Add another achievement here]</li>
-                  <li>• [Add a third point here]</li>
+                  <li>• Awarded $11,000 to build a multimodal restaurant ranking system using BERT, ResNet-18, Faiss, and PyTorch; deployed with FastAPI, Docker, and EC2 Spot, serving 2,500+ users with sub-1s latency </li>
+                  <li>• Finetuned the model with PyTorch, Faiss, and EC2 on user data, improving recommendation quality by 72%</li>
+                  <li>• Deployed a SageMaker endpoint with Docker, ECR, and CloudWatch for low-latency inference with real-time monitoring </li>
                 </ul>
               </CardContent>
             </Card>
